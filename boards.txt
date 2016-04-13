@@ -1,0 +1,28 @@
+Add this to your Arduino IDE boards.txt file to fuse the ATMega328p used on the AAduino
+
+
+##############################################################
+# AAduino (8Mhz @ 3V, BOD 1.7V)
+
+aaduino.name=AAduino (3.3V, 8 MHz) w/ ATmega328
+
+aaduino.upload.protocol=arduino
+aaduino.upload.maximum_size=30720
+aaduino.upload.speed=57600
+
+aaduino.bootloader.low_fuses=0xFF
+aaduino.bootloader.high_fuses=0xDA
+aaduino.bootloader.extended_fuses=0x06
+#aaduino.bootloader.extended_fuses=0x05
+aaduino.bootloader.path=atmega
+aaduino.bootloader.file=ATmegaBOOT_168_atmega328_pro_8MHz.hex
+aaduino.bootloader.unlock_bits=0x3F
+aaduino.bootloader.lock_bits=0x0F
+
+aaduino.build.mcu=atmega328p
+aaduino.build.f_cpu=8000000L
+aaduino.build.core=arduino
+aaduino.build.variant=standard
+
+##############################################################
+

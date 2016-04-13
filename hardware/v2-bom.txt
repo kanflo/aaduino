@@ -1,0 +1,20 @@
+Part Value           Device                    Package                              Description           PROD_ID   VALUE     
+ANT  M01PTH          M01PTH                    1X01                                 Header 1                                  
+C1   0.1uF           0.1UF-25V(+80/-20%)(0603) 0603-CAP                             CAP-00810             CAP-00810 0.1uF     
+C2   0.1uF           0.1UF-25V(+80/-20%)(0603) 0603-CAP                             CAP-00810             CAP-00810 0.1uF     
+C3   0.1uF           0.1UF-25V(+80/-20%)(0603) 0603-CAP                             CAP-00810             CAP-00810 0.1uF     
+J1   KEYSTONE-629    KEYSTONE-629              KEYSTONE_AA_AAA_BATTERY_TERMINAL-629 Keystone 629                              
+J2   KEYSTONE-637    KEYSTONE-637              KEYSTONE_AA_AAA_BATTERY_TERMINAL-637 Keystone 637                              
+JP1                  M03PTH                    1X03                                 Header 3                                  
+JP2                  M03PTH                    1X03                                 Header 3                                  
+JP3                  M03PTH                    1X03                                 Header 3                                  
+LED1                 LED0603                   LED-0603                             LEDs                                      
+R1   10k             RESISTOR0603-RES          0603-RES                             Resistor                                  
+R2   1k8             RESISTOR0603-RES          0603-RES                             Resistor                                  
+R3   4k7             RESISTOR0603-RES          0603-RES                             Resistor                                  
+R4   4k7             RESISTOR0603-RES          0603-RES                             Resistor                                  
+U1   ATMEGA328P      ATMEGA328_SMT             TQFP32-08                            32-Pin Atmega328 part IC-09069  ATMEGA328P
+U2   RFM12B          RFM12B                    RFM12B                                                                         
+U3   RESONATOR_8MHZ  RESONATOR_8MHZ            RESONATOR_SMD                                                                  
+
+Oh, and if you want to build an AAduino, the markings for UART RX/TX got mixed up on the silk screen :-/
