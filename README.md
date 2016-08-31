@@ -9,5 +9,6 @@ The AAduino is an wireless Arduino clone the size of an AA battery with Keystone
 Powered by an ATMega328p, it is fitted with an RFM69C companion, two DS18B20 temperature sensors and an indicator LED.
 
 Included in this repository is the schematics, bill of material and a sample program to test the hardware.
+If you want solder up one yourself you can buy most of what is needed through the links on the [Kitnic page](https://kitnic.it/boards/github.com/kanflo/aaduino).
 
 The accompanying blog post is [here](http://johan.kanflo.com/the-aaduino).
