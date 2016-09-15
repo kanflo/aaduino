@@ -1,0 +1,5 @@
+summary: An AA sized ISM radio Arduino clone
+site: http://johan.kanflo.com/the-aaduino/
+color: red
+gerbers: hardware/gerbers
+bom: hardware/1-click-bom.tsv
