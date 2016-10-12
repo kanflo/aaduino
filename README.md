@@ -11,4 +11,6 @@ Powered by an ATMega328p, it is fitted with an RFM69C companion, two DS18B20 tem
 Included in this repository is the schematics, bill of material and a sample program to test the hardware.
 If you want solder up one yourself you can buy most of what is needed through the links on the [Kitnic page](https://kitnic.it/boards/github.com/kanflo/aaduino).
 
+If you are looking for an easy way to order the PCBs only, please order from [DirtyPCBs.com](http://dirtypcbs.com/view.php?share=18116&accesskey=5cb9ea9c4754e5c9102b4350393b244e) and I will receive a $1 credit :)
+
 The accompanying blog post is [here](http://johan.kanflo.com/the-aaduino).
