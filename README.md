@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/kanflo/aaduino/master/aaduino.jpg" alt="The AAduino"/>
 </p>
 
-###News! Don't miss the successor of the AAduino, the [AAduino Zero](https://github.com/kanflo/aaduino-zero).
+### News! Don't miss the successor of the AAduino, the [AAduino Zero](https://github.com/kanflo/aaduino-zero).
 
 The AAduino is an wireless Arduino clone the size of an AA battery with Keystone battery terminals rotated 180° to act as positive and negative terminals. It is meant to go inside a 3xAA battery holder creating a very small wireless node.
 
